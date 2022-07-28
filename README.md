@@ -12,6 +12,8 @@ Everyone is welcome to clone this repository here: [GitHub Repo](https://github.
 
 The usages of this project is for learning purposes only. 
 
+![Quick Glance - CODE](./assets/images/Capture.PNG)
+
 ## Credits
 
 The starter code can be found here: [Xandromus](https://github.com/coding-boot-camp/urban-octo-telegram)
