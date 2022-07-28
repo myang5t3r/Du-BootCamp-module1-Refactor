@@ -67,6 +67,10 @@ aside {
   background-color: #2589bd;
 }
 
+footer {
+  display: none;
+}
+
 /* Class Selector - all elements with that class */
 
 .main_img {
