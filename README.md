@@ -8,6 +8,8 @@ In this project I learned how to use Sematic HTML elements to clearly define the
 
 Everyone is welcome to clone this repository here: [GitHub Repo](https://github.com/myang5t3r/Du-BootCamp-module1-Refactor)
 
+The website is deloyed here: [Horiseon Marketing Firm](https://myang5t3r.github.io/Du-BootCamp-module1-Refactor/)
+
 ## Usage
 
 The usages of this project is for learning purposes only. 
